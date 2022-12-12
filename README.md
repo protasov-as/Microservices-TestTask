@@ -10,3 +10,4 @@
 - MariaDB
 - Docker-compose
 
+Docker-compose находится в каталоге service1
